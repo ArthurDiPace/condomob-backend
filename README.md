@@ -5,7 +5,7 @@ Este é o backend do projeto Condomob, desenvolvido em Django REST Framework.
 ## Requisitos
 
 Certifique-se de ter os seguintes requisitos instalados antes de prosseguir:
-- Python (versão 3.x)
+- Python (versão 3.8)
 - Pip (gerenciador de pacotes do Python)
 - Ambiente virtual (recomendado)
 
